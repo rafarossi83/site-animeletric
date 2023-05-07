@@ -240,6 +240,11 @@ header h1 img {
     background-color: #f47521;
     text-transform: uppercase;
     font-weight: bold;
+    cursor: pointer;
+}
+
+#questions form button:hover {
+    background-color: #f19252;
 }
 
 #questions form textarea {
